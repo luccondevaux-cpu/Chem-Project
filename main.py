@@ -37,9 +37,9 @@ class Neutron(Charged_Particle):
 #main run here:
 
 Window.exitonclick()
-
 clicked = False
+Window.onscreenclick(clicked != clicked)
+
 while not clicked:
     #code here
-
-    Window.onscreenclick(clicked != clicked)
+    pass
